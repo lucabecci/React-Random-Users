@@ -24,10 +24,10 @@ const App = () => {
   getData();
 
   return (
-    <>
+    <div>
       <Header/>
       <UsersList/>
-    </>
+    <div/>
   );
 };
 
